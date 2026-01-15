@@ -125,10 +125,6 @@ This pipeline successfully demonstrated:
 - Incident response automation
 - Security tool integration
 
-## Project Links
-
-- **GitHub Repository**: [Automated-SOC-Incident-Response-Pipeline](https://github.com/rehmanwaraich07/Automated-SOC-Incident-Response-Pipeline)
-
 ## Important Note: Lab Environment
 
 I built and tested this in a controlled home lab environment, not in a live production SOC. The goal here is to demonstrate my understanding of SIEM + SOAR integration, automated incident response workflows, and real-world SOC incident handling processes for credential dumping attacks.
